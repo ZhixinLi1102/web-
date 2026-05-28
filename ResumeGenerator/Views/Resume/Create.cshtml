@@ -1,0 +1,91 @@
+﻿@model ResumeGenerator.Models.ResumeModel
+@{
+    ViewData["Title"] = "填写简历";
+
+}
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - 简历生成器</title>
+    <!-- Bootstrap 5 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- 我们的自定义样式 -->
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <!-- 页面内容 -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+<div class="container mt-4">
+    <h2>填写简历信息</h2>
+    <form asp-action="Preview" method="post" enctype="multipart/form-data">
+
+        <!-- 1. 个人信息 & 照片 -->
+        <div class="card mb-4">
+            <div class="card-header">个人信息</div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-8">
+                        <div class="mb-3"><label>姓名</label><input asp-for="FullName" class="form-control" required /></div>
+                        <div class="mb-3"><label>求职意向</label><input asp-for="JobTitle" class="form-control" /></div>
+                        <div class="mb-3"><label>邮箱</label><input asp-for="Email" class="form-control" /></div>
+                        <div class="mb-3"><label>电话</label><input asp-for="Phone" class="form-control" /></div>
+                    </div>
+                    <div class="col-md-4">
+                        <label>个人照片</label>
+                        <input type="file" name="Photo" accept="image/*" class="form-control" />
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 2. 教育背景 -->
+        <div class="card mb-4">
+            <div class="card-header">教育背景</div>
+            <div class="card-body row">
+                <div class="col-md-4 mb-3"><label>学校</label><input asp-for="School" class="form-control" /></div>
+                <div class="col-md-4 mb-3"><label>专业</label><input asp-for="Major" class="form-control" /></div>
+                <div class="col-md-4 mb-3"><label>就读时间</label><input asp-for="EducationDuration" class="form-control" placeholder="2019-2023" /></div>
+            </div>
+        </div>
+
+        <!-- 3. 实习经历 (改为 TextArea) -->
+        <div class="card mb-4">
+            <div class="card-header">实习经历</div>
+            <div class="card-body">
+                <textarea asp-for="Internships" class="form-control" rows="5" placeholder="每段经历之间请用空行隔开，例如：&#10;XX公司 - 开发实习生 (2023.07-2023.09)&#10;- 负责核心模块开发&#10;- 优化了系统性能&#10;&#10;YY公司 - 测试实习生 (2022.06-2022.09)&#10;- 编写测试用例"></textarea>
+                <small class="text-muted">提示：换行即代表分点，空行代表新的经历段。</small>
+            </div>
+        </div>
+
+        <!-- 4. 项目经历 (改为 TextArea) -->
+        <div class="card mb-4">
+            <div class="card-header">项目经历</div>
+            <div class="card-body">
+                <textarea asp-for="Projects" class="form-control" rows="5" placeholder="例如：&#10;个人博客系统&#10;- 使用 ASP.NET Core 开发&#10;- 实现了简历生成功能"></textarea>
+            </div>
+        </div>
+
+        <!-- 5. 校园经历 (改为 TextArea) -->
+        <div class="card mb-4">
+            <div class="card-header">校园经历</div>
+            <div class="card-body">
+                <textarea asp-for="CampusExps" class="form-control" rows="5" placeholder="例如：&#10;学生会部长&#10;- 组织了XX活动"></textarea>
+            </div>
+        </div>
+
+        <!-- 6. 专业特长 -->
+        <div class="card mb-4">
+            <div class="card-header">专业特长</div>
+            <div class="card-body">
+                <textarea asp-for="Skills" class="form-control" rows="3" placeholder="例如：C#, ASP.NET Core, SQL Server"></textarea>
+            </div>
+        </div>
+
+        <div class="mb-5">
+            <button type="submit" class="btn btn-primary btn-lg">预览简历</button>
+        </div>
+    </form>
+</div>

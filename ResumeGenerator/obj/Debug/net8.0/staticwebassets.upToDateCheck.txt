@@ -1,0 +1,2 @@
+wwwroot\templates\template1.html
+wwwroot\templates\template2.html

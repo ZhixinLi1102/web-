@@ -1,0 +1,155 @@
+﻿/* ===== 1. 全局与基础样式 ===== */
+:root {
+    --primary-color: #2c3e50; /* 深蓝灰 - 专业色 */
+    --accent-color: #3498db; /* 亮蓝 - 强调色 */
+    --light-bg: #f4f6f8; /* 浅灰背景 */
+    --card-bg: #ffffff;
+    --text-color: #333;
+    --border-color: #e0e0e0;
+}
+
+body {
+    background-color: var(--light-bg);
+    font-family: 'Segoe UI', 'Microsoft YaHei', sans-serif;
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+/* ===== 2. 导航与容器 ===== */
+.container {
+    max-width: 960px; /* 限制最大宽度，阅读更舒适 */
+}
+
+h2 {
+    color: var(--primary-color);
+    border-bottom: 2px solid var(--accent-color);
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    font-weight: 600;
+}
+
+/* ===== 3. 卡片美化 (Card Enhancement) ===== */
+.card {
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    transition: box-shadow 0.3s ease-in-out;
+    margin-bottom: 1.5rem;
+}
+
+    .card:hover {
+        box-shadow: 0 8px 15px rgba(0,0,0,0.1);
+    }
+
+.card-header {
+    background-color: var(--primary-color);
+    color: white;
+    font-weight: bold;
+    border-bottom: none;
+    border-radius: 8px 8px 0 0;
+    padding: 0.75rem 1.25rem;
+}
+
+/* ===== 4. 表单控件美化 ===== */
+.form-control {
+    border-radius: 5px;
+    border: 1px solid #ced4da;
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+    .form-control:focus {
+        border-color: var(--accent-color);
+        box-shadow: 0 0 0 0.2rem rgba(52, 152, 219, 0.25);
+    }
+
+label {
+    font-weight: 600;
+    color: #555;
+    margin-bottom: 0.3rem;
+}
+
+textarea.form-control {
+    min-height: 120px;
+    resize: vertical;
+}
+
+/* ===== 5. 按钮美化 (Button Enhancement) ===== */
+.btn-primary {
+    background-color: var(--accent-color);
+    border-color: var(--accent-color);
+    padding: 10px 30px;
+    font-weight: bold;
+    transition: all 0.3s;
+}
+
+    .btn-primary:hover {
+        background-color: #2980b9;
+        transform: translateY(-2px);
+        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+
+.btn-success {
+    background-color: #27ae60;
+    border-color: #27ae60;
+}
+
+.btn-info {
+    background-color: #16a085;
+    border-color: #16a085;
+}
+
+/* ===== 6. 预览页专用样式 (A4 模拟) ===== */
+#resume-content {
+    background: white;
+    width: 210mm; /* A4 宽度 */
+    min-height: 297mm; /* A4 高度 */
+    margin: 20px auto;
+    padding: 20mm;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+}
+
+    /* 预览页内的简历排版 */
+    #resume-content h1 {
+        font-size: 32px;
+        color: var(--primary-color);
+        margin-bottom: 5px;
+    }
+
+    #resume-content h3 {
+        font-size: 18px;
+        color: #666;
+        margin-bottom: 20px;
+    }
+
+    #resume-content hr {
+        border-top: 2px solid var(--accent-color);
+        margin: 20px 0;
+    }
+
+/* ===== 7. 打印优化 (Print Optimization) ===== */
+@media print {
+    body * {
+        visibility: hidden;
+    }
+
+    #resume-content, #resume-content * {
+        visibility: visible;
+    }
+
+    #resume-content {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        margin: 0;
+        padding: 15mm; /* 打印留白 */
+        box-shadow: none;
+        border: none;
+    }
+
+    .no-print {
+        display: none !important;
+    }
+}
