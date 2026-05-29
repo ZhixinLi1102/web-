@@ -9,7 +9,7 @@ namespace ResumeGenerator.Models
         public string JobTitle { get; set; }
         public string Email { get; set; }
         public string Phone { get; set; }
-        public string Summary { get; set; }
+     
 
         // 照片
         public IFormFile Photo { get; set; }

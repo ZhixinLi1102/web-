@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ResumeGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d771775d56444f374cdbf6027ed6b7cf5ee82657")]
 [assembly: System.Reflection.AssemblyProductAttribute("ResumeGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ResumeGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

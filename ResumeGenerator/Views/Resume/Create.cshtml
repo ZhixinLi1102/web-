@@ -4,6 +4,8 @@
 
 }
 
+
+
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -20,7 +22,7 @@
 
 <div class="container mt-4">
     <h2>填写简历信息</h2>
-    <form asp-action="Preview" method="post" enctype="multipart/form-data">
+    <form asp-action="Create" method="post" enctype="multipart/form-data">
 
         <!-- 1. 个人信息 & 照片 -->
         <div class="card mb-4">
@@ -29,13 +31,13 @@
                 <div class="row">
                     <div class="col-md-8">
                         <div class="mb-3"><label>姓名</label><input asp-for="FullName" class="form-control" required /></div>
-                        <div class="mb-3"><label>求职意向</label><input asp-for="JobTitle" class="form-control" /></div>
+                        <div class="mb-3"><label>求职意向</label><input asp-for="JobIntention" class="form-control" /></div>
                         <div class="mb-3"><label>邮箱</label><input asp-for="Email" class="form-control" /></div>
                         <div class="mb-3"><label>电话</label><input asp-for="Phone" class="form-control" /></div>
                     </div>
                     <div class="col-md-4">
                         <label>个人照片</label>
-                        <input type="file" name="Photo" accept="image/*" class="form-control" />
+                        <input type="file" name="photo" accept="image/*" class="form-control" />
                     </div>
                 </div>
             </div>

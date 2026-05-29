@@ -47,7 +47,7 @@
             <div class="photo-placeholder mb-3">
                 @if (!string.IsNullOrEmpty(Model.PhotoBase64))
                 {
-                    <img src="data:image/jpeg;base64,@(Model.PhotoBase64?.Replace(' ','+'))" alt="个人照片" />
+                    <img src="@Model.PhotoBase64" style="width:120px;height:160px;" alt="个人照片" />
                 }
                 else
                 {

@@ -24,7 +24,7 @@ public class PdfService : IPdfService
                     {
                         row.RelativeItem().Column(c => {
                             c.Item().Text(model.FullName).FontSize(24).Bold();
-                            c.Item().Text(model.JobTitle).FontSize(16).SemiBold();
+                            c.Item().Text(model.JobIntention).FontSize(16).SemiBold();
                             c.Item().Text($"📧 {model.Email} | 📞 {model.Phone}");
                         });
                         if (!string.IsNullOrEmpty(model.PhotoBase64))

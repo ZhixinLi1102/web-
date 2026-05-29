@@ -76,3 +76,4 @@ C:\Users\22953\Desktop\html\ResumeGenerator\ResumeGenerator\obj\Debug\net8.0\ref
 C:\Users\22953\Desktop\html\ResumeGenerator\ResumeGenerator\obj\Debug\net8.0\ResumeGenerator.pdb
 C:\Users\22953\Desktop\html\ResumeGenerator\ResumeGenerator\obj\Debug\net8.0\ResumeGenerator.genruntimeconfig.cache
 C:\Users\22953\Desktop\html\ResumeGenerator\ResumeGenerator\obj\Debug\net8.0\ref\ResumeGenerator.dll
+C:\Users\22953\Desktop\html\ResumeGenerator\ResumeGenerator\obj\Debug\net8.0\ResumeGenerator.sourcelink.json

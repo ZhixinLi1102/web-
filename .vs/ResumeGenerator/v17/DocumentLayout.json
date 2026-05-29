@@ -3,44 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|c:\\users\\22953\\desktop\\html\\resumegenerator\\resumegenerator\\views\\resume\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|solutionrelative:resumegenerator\\views\\resume\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|c:\\users\\22953\\desktop\\html\\resumegenerator\\resumegenerator\\views\\resume\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|solutionrelative:resumegenerator\\views\\resume\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|c:\\users\\22953\\desktop\\html\\resumegenerator\\resumegenerator\\views\\resume\\preview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|solutionrelative:resumegenerator\\views\\resume\\preview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|c:\\users\\22953\\desktop\\html\\resumegenerator\\resumegenerator\\services\\pdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|solutionrelative:resumegenerator\\services\\pdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|c:\\users\\22953\\desktop\\html\\resumegenerator\\resumegenerator\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|solutionrelative:resumegenerator\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|c:\\users\\22953\\desktop\\html\\resumegenerator\\resumegenerator\\models\\resumemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|solutionrelative:resumegenerator\\models\\resumemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|c:\\users\\22953\\desktop\\html\\resumegenerator\\resumegenerator\\controllers\\resumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|solutionrelative:resumegenerator\\controllers\\resumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|c:\\users\\22953\\desktop\\html\\resumegenerator\\resumegenerator\\views\\resume\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|solutionrelative:resumegenerator\\views\\resume\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|c:\\users\\22953\\desktop\\html\\resumegenerator\\resumegenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|solutionrelative:resumegenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|c:\\users\\22953\\desktop\\html\\resumegenerator\\resumegenerator\\services\\ipdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|solutionrelative:resumegenerator\\services\\ipdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|c:\\users\\22953\\desktop\\html\\resumegenerator\\resumegenerator\\models\\resumemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|solutionrelative:resumegenerator\\models\\resumemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|c:\\users\\22953\\desktop\\html\\resumegenerator\\resumegenerator\\views\\resume\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|solutionrelative:resumegenerator\\views\\resume\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|c:\\users\\22953\\desktop\\html\\resumegenerator\\resumegenerator\\services\\pdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|solutionrelative:resumegenerator\\services\\pdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|c:\\users\\22953\\desktop\\html\\resumegenerator\\resumegenerator\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|solutionrelative:resumegenerator\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|c:\\users\\22953\\desktop\\html\\resumegenerator\\resumegenerator\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|solutionrelative:resumegenerator\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|c:\\users\\22953\\desktop\\html\\resumegenerator\\resumegenerator\\services\\ipdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|solutionrelative:resumegenerator\\services\\ipdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{622F5DE4-2ACF-4C88-A66F-E67AF4DC4BD5}|ResumeGenerator\\ResumeGenerator.csproj|c:\\users\\22953\\desktop\\html\\resumegenerator\\resumegenerator\\wwwroot\\templates\\template2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -58,34 +58,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "ResumeController.cs",
+              "DocumentMoniker": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\Controllers\\ResumeController.cs",
+              "RelativeDocumentMoniker": "ResumeGenerator\\Controllers\\ResumeController.cs",
+              "ToolTip": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\Controllers\\ResumeController.cs",
+              "RelativeToolTip": "ResumeGenerator\\Controllers\\ResumeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowEQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T03:32:55.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\Views\\Resume\\Create.cshtml",
               "RelativeDocumentMoniker": "ResumeGenerator\\Views\\Resume\\Create.cshtml",
               "ToolTip": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\Views\\Resume\\Create.cshtml",
               "RelativeToolTip": "ResumeGenerator\\Views\\Resume\\Create.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAFIAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-27T03:36:01.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "ResumeGenerator\\Program.cs",
+              "ToolTip": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\Program.cs",
+              "RelativeToolTip": "ResumeGenerator\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T03:25:11.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResumeModel.cs",
+              "DocumentMoniker": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\Models\\ResumeModel.cs",
+              "RelativeDocumentMoniker": "ResumeGenerator\\Models\\ResumeModel.cs",
+              "ToolTip": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\Models\\ResumeModel.cs",
+              "RelativeToolTip": "ResumeGenerator\\Models\\ResumeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T03:33:16.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\Views\\Resume\\Index.cshtml",
               "RelativeDocumentMoniker": "ResumeGenerator\\Views\\Resume\\Index.cshtml",
               "ToolTip": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\Views\\Resume\\Index.cshtml",
               "RelativeToolTip": "ResumeGenerator\\Views\\Resume\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-27T03:35:45.272Z",
               "EditorCaption": ""
@@ -98,92 +141,27 @@
               "RelativeDocumentMoniker": "ResumeGenerator\\Views\\Resume\\Preview.cshtml",
               "ToolTip": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\Views\\Resume\\Preview.cshtml",
               "RelativeToolTip": "ResumeGenerator\\Views\\Resume\\Preview.cshtml",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAiwGEAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAiwDkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-28T07:24:54.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ResumeController.cs",
-              "DocumentMoniker": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\Controllers\\ResumeController.cs",
-              "RelativeDocumentMoniker": "ResumeGenerator\\Controllers\\ResumeController.cs",
-              "ToolTip": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\Controllers\\ResumeController.cs",
-              "RelativeToolTip": "ResumeGenerator\\Controllers\\ResumeController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA0wGQAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T03:32:55.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\css\\site.css",
-              "RelativeDocumentMoniker": "ResumeGenerator\\css\\site.css",
-              "ToolTip": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\css\\site.css",
-              "RelativeToolTip": "ResumeGenerator\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-05-28T06:48:06.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "PdfService.cs",
               "DocumentMoniker": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\Services\\PdfService.cs",
               "RelativeDocumentMoniker": "ResumeGenerator\\Services\\PdfService.cs",
               "ToolTip": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\Services\\PdfService.cs",
               "RelativeToolTip": "ResumeGenerator\\Services\\PdfService.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAmwD8AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-27T03:37:54.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ResumeModel.cs",
-              "DocumentMoniker": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\Models\\ResumeModel.cs",
-              "RelativeDocumentMoniker": "ResumeGenerator\\Models\\ResumeModel.cs",
-              "ToolTip": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\Models\\ResumeModel.cs",
-              "RelativeToolTip": "ResumeGenerator\\Models\\ResumeModel.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T03:33:16.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\Program.cs",
-              "RelativeDocumentMoniker": "ResumeGenerator\\Program.cs",
-              "ToolTip": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\Program.cs",
-              "RelativeToolTip": "ResumeGenerator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T03:25:11.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IPdfService.cs",
-              "DocumentMoniker": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\Services\\IPdfService.cs",
-              "RelativeDocumentMoniker": "ResumeGenerator\\Services\\IPdfService.cs",
-              "ToolTip": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\Services\\IPdfService.cs",
-              "RelativeToolTip": "ResumeGenerator\\Services\\IPdfService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T05:44:44.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ResumeGenerator\\Views\\_ViewImports.cshtml",
@@ -193,6 +171,30 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-27T03:51:39.562Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\css\\site.css",
+              "RelativeDocumentMoniker": "ResumeGenerator\\css\\site.css",
+              "ToolTip": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\css\\site.css",
+              "RelativeToolTip": "ResumeGenerator\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-28T06:48:06.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPdfService.cs",
+              "DocumentMoniker": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\Services\\IPdfService.cs",
+              "RelativeDocumentMoniker": "ResumeGenerator\\Services\\IPdfService.cs",
+              "ToolTip": "C:\\Users\\22953\\Desktop\\html\\ResumeGenerator\\ResumeGenerator\\Services\\IPdfService.cs",
+              "RelativeToolTip": "ResumeGenerator\\Services\\IPdfService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:44:44.693Z"
             },
             {
               "$type": "Document",
